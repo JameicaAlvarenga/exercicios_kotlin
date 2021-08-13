@@ -1,5 +1,4 @@
 
-
 fun main(){
     val salarios = doubleArrayOf(5499.00,6000.00,4756.00,4250.00,5500.01,5522.0)
 
